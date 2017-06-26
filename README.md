@@ -1,5 +1,4 @@
 # Codika API Exercise
-==============================================
 
 API exercise with logging and creation of buildings, floors and rooms
 
